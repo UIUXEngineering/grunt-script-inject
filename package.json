@@ -9,7 +9,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "~1.0.1"
   },
   "devDependencies": {
     "grunt": "~1.0.1",
